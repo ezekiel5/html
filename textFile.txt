@@ -1,0 +1,4 @@
+<p style="font-family:arial; font-size:15px">test</p>
+<p style="font-family:arial; font-size:15px; color:blue">testo</p>
+
+rectangle.setEffect(new DropShadow(20, Color.BLACK));  // Shadow
